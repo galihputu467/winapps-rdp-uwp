@@ -1,0 +1,14 @@
+# GNOME shortcut name
+NAME="Xbox"
+
+# Used for descriptions and window class
+FULL_NAME="Xbox"
+
+# The executable inside windows
+WIN_EXECUTABLE="C:\Users\Admin\Desktop\Xbox.lnk"
+
+# GNOME categories
+CATEGORIES="WinApps;xbox"
+
+# GNOME mimetypes
+MIME_TYPES="application/xbox"

@@ -1,0 +1,14 @@
+# GNOME shortcut name
+NAME="Groove"
+
+# Used for descriptions and window class
+FULL_NAME="Groove"
+
+# The executable inside windows
+WIN_EXECUTABLE="C:\Users\Admin\Desktop\Groove Music.lnk"
+
+# GNOME categories
+CATEGORIES="WinApps;groove"
+
+# GNOME mimetypes
+MIME_TYPES="application/groove"
